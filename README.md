@@ -18,13 +18,13 @@ In this task, we built a Book Recommendation System using a matrix factorization
 
 ##  dataset :
 
+File Name: Ratings.csv
+
 User-ID: Identifier for each user
 
 ISBN: Unique identifier for each book
 
 Book-Rating: User rating (0–10 scale)
-
-Dataset Details
 
 Column Name	
 
@@ -46,6 +46,6 @@ Online Libraries (Goodreads): To suggest books a user may enjoy based on ratings
 
 ## Output:
 
+![Image](https://github.com/user-attachments/assets/2b71ae07-eeb9-4dd5-8b1b-931c964a49ca)
 
 
-File Name: Ratings.csv
